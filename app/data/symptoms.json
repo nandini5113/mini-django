@@ -1,0 +1,13 @@
+{
+    "Allergy": ["itching", "skin rash", "nodal skin eruptions", "red sore around nose", "yellow crust oozing"],
+    "Common Cold": ["continuous sneezing", "chills", "watering from eyes", "runny nose", "congestion"],
+    "Flu": ["high fever", "muscle pain", "fatigue", "headache", "cough", "sore throat"],
+    "COVID-19": ["fever", "cough", "shortness of breath", "loss of taste or smell", "muscle aches"],
+    "Gastritis": ["stomach pain", "acidity", "nausea", "vomiting", "loss of appetite"],
+    "Diabetes": ["excessive hunger", "increased appetite", "polyuria", "blurred vision", "weight loss"],
+    "Asthma": ["cough", "shortness of breath", "wheezing", "chest tightness", "fatigue"],
+    "Migraine": ["headache", "nausea", "vomiting", "sensitivity to light", "aura"],
+    "Hypertension": ["headache", "dizziness", "blurred vision", "chest pain", "nosebleeds"],
+    "Anemia": ["fatigue", "weakness", "paleness", "shortness of breath", "dizziness"],
+    "Sinusitis": ["facial pain", "sinus pressure", "nasal congestion", "headache", "reduced sense of smell"]
+}
